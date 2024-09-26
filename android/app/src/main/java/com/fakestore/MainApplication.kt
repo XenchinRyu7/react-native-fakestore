@@ -1,4 +1,4 @@
-package com.fakestorecrud
+package com.fakestore
 
 import android.app.Application
 import com.facebook.react.PackageList
